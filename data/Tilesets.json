@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"flags":[16],"mode":1,"name":"虚無","note":"","tilesetNames":["","","","","","","","",""]},
+{"id":2,"flags":[16],"mode":0,"name":"デバッグ用","note":"","tilesetNames":["","World_A2","","","","","","",""]}
+]
